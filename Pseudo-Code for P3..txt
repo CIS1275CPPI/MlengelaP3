@@ -1,0 +1,36 @@
+Pseudo-Code for P3
+Date: 13 October 2021. 
+
+//Declare/ initialize Vectors variables in index(3);
+	//vector<string>planets;
+	//vector<int>distances;
+	//vector<double>gravities;
+//Display the number of the years, days, and hours required by the space trip;
+	//Hours_per_day = 24;
+	// Days_per_years = 365 (ignore leap year);
+	// Hours_per_year (Hours_per_day x days_per_year);
+// start a while loop ( while done);
+	// Ask for the user's name (Gwendolyn);
+		// return string name; 
+	//Ask for the user's pounds;
+ 		// Return pounds (115#);
+	//Ask for the travelling speed;
+		//Return speed (600 mph);
+	//Declare variables for calculations;
+		//Ask for the selection of planet (from a displayed menu);
+		//Ask the user for the selection (Any selected planet);
+//End loop;
+//Display Results;
+	//Report user's name;
+	//Report user's weight on the earth;
+	//Report user's weight on the planet;
+	//Report user's planet destination; 
+	//Report user's travel time; years, days, and hours;
+	 (In floating point numbers with 2 decimal places)
+//Ask do another; 
+	// Ask the user if they want to calculate the trip to another planet;
+	//Return response; 
+		// if yes, loop up to the top of the Play Loop.  
+		// If no, the loop will call up the "Display Results";
+// Display a goodbye message; 
+	// Return a goodbye message string;
