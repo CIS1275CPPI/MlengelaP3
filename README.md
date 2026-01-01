@@ -42,6 +42,8 @@ General sources:
 
 [Look at this example](https://www.codecademy.com/resources/docs/cpp/vectors)
 
+[Precision](https://cplusplus.com/reference/iomanip/setprecision/)
+
 Specific sources:
 
 These equations might be useful:
