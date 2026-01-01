@@ -68,7 +68,7 @@ Display the traveler’s name, weight on Earth, the destination planet, and weig
 Break down the travel time into years, days, and hours.  You may use 24 hours in a day and 365 days in a year (ignore leap years).
 Display the number of years, days, and hours required for the trip.
 
-Your program should have only one set of variables to be used in the calculations.
+The program should have only one set of variables to be used in the calculations.
 The code for the calculations and resultant output should be written in only one place in your program.  
 Do not duplicate code and calculations for each planet. Make your program as efficient as possible without losing clarity.
 
